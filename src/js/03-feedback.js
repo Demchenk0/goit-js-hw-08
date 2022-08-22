@@ -42,7 +42,7 @@ function populateTextarea() {
             newTextarea.value = formDataParse.message;
             return;
         };
-        // 
+    
     }
 
 }
